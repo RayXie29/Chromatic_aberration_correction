@@ -1,12 +1,5 @@
 #include <iostream>
 #include <opencv2\opencv.hpp>
-#include <fstream>
-#include <string>
-#include <errno.h>
-#include <direct.h>
-#include <ctime>
-#include <string>
-#include <chrono>
 /*---------------------------------------------------------------------*/
 #include "CAC.h"
 
