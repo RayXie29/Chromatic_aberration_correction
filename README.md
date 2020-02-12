@@ -1,4 +1,4 @@
-#Chromatic aberration correction algorithm
+# Chromatic aberration correction algorithm
 
 This repo is the implementation of paper "Removing chromatic aberration by digital image processing" <br />
 Chromatic aberration is due to different indices of color in light. And most of the time, it looked like color fringes along the boundary or color blur. <br /> 
